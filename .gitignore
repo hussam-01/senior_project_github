@@ -4,3 +4,4 @@ models/
 .vscode/
 events_era_classification/events_era_classification_find_similarity_between_two_texts.ipynb
 temp/
+apis/__pycache__
